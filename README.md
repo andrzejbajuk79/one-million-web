@@ -1,4 +1,4 @@
-#Vanilla Javascript and Sass
+#one-million-web
 
 simple website with scrolling using javascript
 
